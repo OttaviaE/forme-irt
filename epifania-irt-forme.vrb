@@ -1,0 +1,29 @@
+
+\begin{verbatim}
+eip_difference  = diff_theta(stf_eip, starting_theta = true_theta)
+\end{verbatim}
+
+\begin{overprint}
+\onslide<1>
+\small
+\begin{verbatim}
+plot_difference(eip_difference, type = "diff", levels = 10)
+\end{verbatim}
+
+\centering
+
+\includegraphics[width=.8\linewidth]{img/difference}
+
+
+\onslide<2>
+\small
+\begin{verbatim}
+plot_difference(eip_difference, type = "absolute_diff", levels = 10)
+\end{verbatim}
+
+\centering
+
+\includegraphics[width=.8\linewidth]{img/absolute-difference}
+\end{overprint}
+
+
