@@ -290,7 +290,7 @@ Different IRT models according to:
 
 \begin{frame}{Models for dichotomous responses}
 
-IRT models can be distinguinshed according to the number of parameters describing the charcateristics of the items. 
+IRT models can be distinguished according to the number of parameters describing the characteristics of the items. 
 	
 	\begin{itemize}
 	\item One-Parameter Logistic Model (1-PL)
@@ -397,7 +397,7 @@ $$P(x_{pi} = 1|\theta_p, b_i, a_i) = \frac{\exp[a_i(\theta_p - b_i)]}{1 + \exp[a
 		\vspace*{3mm}
 		
 		Item Information Function:	\\
-		$I_i(\theta) = P_i(\theta, b_i, a_i)[1-P_i(\theta, b_i, a_i)]$
+		$I_i(\theta) = P_i(\theta, b_i)[1-P_i(\theta, b_i)]$
 		
 		\centering
 		\includegraphics[width=.80\linewidth]{img/iif-1pl.pdf}
@@ -448,7 +448,7 @@ $$P(x_{pi} = 1|\theta_p, b_i, a_i) = \frac{\exp[a_i(\theta_p - b_i)]}{1 + \exp[a
 		Not always!
 	\end{center}
 	
-	
+	\onslide<2->
 	People might get tired and frustrated 
 	 
 	
@@ -506,7 +506,7 @@ $$P(x_{pi} = 1|\theta_p, b_i, a_i) = \frac{\exp[a_i(\theta_p - b_i)]}{1 + \exp[a
 
 \begin{frame}
 \begin{itemize}
-	\item \textbf{Item bank $B$:} Set of items which are administered in a CAT
+	\item \textbf{Item bank $B$:} Entire set of items which can be administered in a CAT
 	\item $||B||$: Number of items in the item bank
 	\item \textbf{An item bank} \textcolor{unipd}{\textbf{must be calibrated}} 
 	\item \textbf{Item calibration:} estimation of item parameters according to IRT models
@@ -521,7 +521,7 @@ $$P(x_{pi} = 1|\theta_p, b_i, a_i) = \frac{\exp[a_i(\theta_p - b_i)]}{1 + \exp[a
 		
 		% Nodes
 		\node (start) [startstop] {Start};
-		\node (ability) [process, right of=start, xshift=3cm] {Ability Estimation};
+		\node (ability) [process, right of=start, xshift=3cm] {Temporary Ability Estimation};
 		\node (decision) [decision, below of=ability, yshift=-1.5cm] {Stopping Rule Satisfied?};
 		\node (end) [startstop, below of=decision, yshift=-1.8cm] {End Administration};
 		\node (final) [process, right of=end, xshift=3cm] {Final Ability estimate};

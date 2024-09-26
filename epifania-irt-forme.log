@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.26)  26 SEP 2024 20:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.26)  26 SEP 2024 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1772,18 +1772,20 @@ Overfull \vbox (9.04422pt too high) detected at line 440
 
 ] [26
 
+] [27
+
 ]
-<img/garg.jpg, id=3661, 452.69125pt x 340.27126pt>
+<img/garg.jpg, id=3758, 452.69125pt x 340.27126pt>
 File: img/garg.jpg Graphic file (type jpg)
 <use img/garg.jpg>
 Package pdftex.def Info: img/garg.jpg  used on input line 503.
 (pdftex.def)             Requested size: 129.45947pt x 97.3054pt.
-<img/scale.jpg, id=3662, 198.7425pt x 111.41624pt>
+<img/scale.jpg, id=3759, 198.7425pt x 111.41624pt>
 File: img/scale.jpg Graphic file (type jpg)
 <use img/scale.jpg>
 Package pdftex.def Info: img/scale.jpg  used on input line 503.
 (pdftex.def)             Requested size: 147.9549pt x 82.94655pt.
- [27
+ [28
 
  <./img/garg.jpg> <./img/scale.jpg>]
 File: img/garg.jpg Graphic file (type jpg)
@@ -1794,22 +1796,22 @@ File: img/scale.jpg Graphic file (type jpg)
 <use img/scale.jpg>
 Package pdftex.def Info: img/scale.jpg  used on input line 503.
 (pdftex.def)             Requested size: 147.9549pt x 82.94655pt.
- [28
+ [29
 
-] (epifania-irt-forme.toc) [29
-
-] [30
+] (epifania-irt-forme.toc) [30
 
 ] [31
 
-]
-(epifania-irt-forme.toc) [32
+] [32
 
-] [33
+]
+(epifania-irt-forme.toc) [33
 
 ] [34
 
 ] [35
+
+] [36
 
 ]
 
@@ -1824,9 +1826,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 686.
 
-(epifania-irt-forme.toc) [36
+(epifania-irt-forme.toc) [37
 
-] [37
+] [38
 
 ]
 Overfull \hbox (4.30542pt too wide) in paragraph at lines 727--727
@@ -1843,11 +1845,11 @@ Overfull \hbox (4.072pt too wide) in paragraph at lines 727--727
 []|$[][]$| 
  []
 
-[38
-
-] [39
+[39
 
 ] [40
+
+] [41
 
 ]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 8
@@ -1859,17 +1861,11 @@ File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 807.
 
-[41
-
-] [42
+[42
 
 ] [43
 
-]
-Overfull \vbox (2.0624pt too high) detected at line 860
- []
-
-[44
+] [44
 
 ]
 Overfull \vbox (2.0624pt too high) detected at line 860
@@ -1878,17 +1874,23 @@ Overfull \vbox (2.0624pt too high) detected at line 860
 [45
 
 ]
-<img/eip.pdf, id=6228, 1011.78pt x 614.295pt>
+Overfull \vbox (2.0624pt too high) detected at line 860
+ []
+
+[46
+
+]
+<img/eip.pdf, id=6325, 1011.78pt x 614.295pt>
 File: img/eip.pdf Graphic file (type pdf)
 <use img/eip.pdf>
 Package pdftex.def Info: img/eip.pdf  used on input line 904.
 (pdftex.def)             Requested size: 184.94292pt x 112.28365pt.
-<img/latent.pdf, id=6229, 1011.78pt x 614.295pt>
+<img/latent.pdf, id=6326, 1011.78pt x 614.295pt>
 File: img/latent.pdf Graphic file (type pdf)
 <use img/latent.pdf>
 Package pdftex.def Info: img/latent.pdf  used on input line 904.
 (pdftex.def)             Requested size: 184.94292pt x 112.28365pt.
- [46
+ [47
 
  <./img/eip.pdf>]
 File: img/eip.pdf Graphic file (type pdf)
@@ -1899,92 +1901,92 @@ File: img/latent.pdf Graphic file (type pdf)
 <use img/latent.pdf>
 Package pdftex.def Info: img/latent.pdf  used on input line 904.
 (pdftex.def)             Requested size: 184.94292pt x 112.28365pt.
- [47
+ [48
 
- <./img/latent.pdf>] [48
+ <./img/latent.pdf>] [49
 
-] [49
+] [50
 
 ]
-<img/info.pdf, id=6778, 1011.78pt x 614.295pt>
+<img/info.pdf, id=6875, 1011.78pt x 614.295pt>
 File: img/info.pdf Graphic file (type pdf)
 <use img/info.pdf>
 Package pdftex.def Info: img/info.pdf  used on input line 953.
 (pdftex.def)             Requested size: 295.9098pt x 179.65947pt.
- [50
+ [51
 
  <./img/info.pdf>]
-<img/infoDetails.pdf, id=6934, 1011.78pt x 614.295pt>
+<img/infoDetails.pdf, id=7031, 1011.78pt x 614.295pt>
 File: img/infoDetails.pdf Graphic file (type pdf)
 <use img/infoDetails.pdf>
 Package pdftex.def Info: img/infoDetails.pdf  used on input line 962.
 (pdftex.def)             Requested size: 295.9098pt x 179.65947pt.
- [51
+ [52
 
  <./img/infoDetails.pdf>]
-<img/BIAS.pdf, id=7090, 1011.78pt x 614.295pt>
+<img/BIAS.pdf, id=7187, 1011.78pt x 614.295pt>
 File: img/BIAS.pdf Graphic file (type pdf)
 <use img/BIAS.pdf>
 Package pdftex.def Info: img/BIAS.pdf  used on input line 970.
 (pdftex.def)             Requested size: 295.9098pt x 179.65947pt.
- [52
+ [53
 
- <./img/BIAS.pdf>] [53
+ <./img/BIAS.pdf>] [54
 
-] [54
-
-]
-(epifania-irt-forme.toc) [55
+] [55
 
 ]
-<img/shortIRT.png, id=7692, 1416.04031pt x 768.62157pt>
+(epifania-irt-forme.toc) [56
+
+]
+<img/shortIRT.png, id=7789, 1416.04031pt x 768.62157pt>
 File: img/shortIRT.png Graphic file (type png)
 <use img/shortIRT.png>
 Package pdftex.def Info: img/shortIRT.png  used on input line 1007.
 (pdftex.def)             Requested size: 369.88585pt x 200.76341pt.
- [56
+ [57
 
  <./img/shortIRT.png>]
 \openout4 = `epifania-irt-forme.vrb'.
 
- (epifania-irt-forme.vrb) [57
+ (epifania-irt-forme.vrb) [58
 
-] (epifania-irt-forme.vrb) [58
-
-]
-\openout4 = `epifania-irt-forme.vrb'.
-
- (epifania-irt-forme.vrb) [59
-
-]
-(epifania-irt-forme.vrb) [60
+] (epifania-irt-forme.vrb) [59
 
 ]
 \openout4 = `epifania-irt-forme.vrb'.
 
- (epifania-irt-forme.vrb) [61
+ (epifania-irt-forme.vrb) [60
+
+]
+(epifania-irt-forme.vrb) [61
+
+]
+\openout4 = `epifania-irt-forme.vrb'.
+
+ (epifania-irt-forme.vrb) [62
 
 ]
 \openout4 = `epifania-irt-forme.vrb'.
 
 
 (epifania-irt-forme.vrb
-<img/stf-bp.pdf, id=8656, 1011.78pt x 614.295pt>
+<img/stf-bp.pdf, id=8753, 1011.78pt x 614.295pt>
 File: img/stf-bp.pdf Graphic file (type pdf)
 <use img/stf-bp.pdf>
 Package pdftex.def Info: img/stf-bp.pdf  used on input line 8.
 (pdftex.def)             Requested size: 332.895pt x 202.11807pt.
-<img/stf-eip.pdf, id=8657, 1011.78pt x 614.295pt>
+<img/stf-eip.pdf, id=8754, 1011.78pt x 614.295pt>
 File: img/stf-eip.pdf Graphic file (type pdf)
 <use img/stf-eip.pdf>
 Package pdftex.def Info: img/stf-eip.pdf  used on input line 15.
 (pdftex.def)             Requested size: 332.895pt x 202.11807pt.
-<img/stf-uip.pdf, id=8658, 1011.78pt x 614.295pt>
+<img/stf-uip.pdf, id=8755, 1011.78pt x 614.295pt>
 File: img/stf-uip.pdf Graphic file (type pdf)
 <use img/stf-uip.pdf>
 Package pdftex.def Info: img/stf-uip.pdf  used on input line 22.
 (pdftex.def)             Requested size: 332.895pt x 202.11807pt.
-<img/all-infos.pdf, id=8659, 1011.78pt x 614.295pt>
+<img/all-infos.pdf, id=8756, 1011.78pt x 614.295pt>
 File: img/all-infos.pdf Graphic file (type pdf)
 <use img/all-infos.pdf>
 Package pdftex.def Info: img/all-infos.pdf  used on input line 29.
@@ -1993,7 +1995,7 @@ Package pdftex.def Info: img/all-infos.pdf  used on input line 29.
 Overfull \vbox (0.9586pt too high) detected at line 1112
  []
 
-[62
+[63
 
  <./img/stf-bp.pdf>] (epifania-irt-forme.vrb
 File: img/stf-bp.pdf Graphic file (type pdf)
@@ -2016,7 +2018,7 @@ Package pdftex.def Info: img/all-infos.pdf  used on input line 29.
 Overfull \vbox (0.9586pt too high) detected at line 1112
  []
 
-[63
+[64
 
  <./img/stf-eip.pdf>] (epifania-irt-forme.vrb
 File: img/stf-bp.pdf Graphic file (type pdf)
@@ -2039,7 +2041,7 @@ Package pdftex.def Info: img/all-infos.pdf  used on input line 29.
 Overfull \vbox (0.9586pt too high) detected at line 1112
  []
 
-[64
+[65
 
  <./img/stf-uip.pdf>] (epifania-irt-forme.vrb
 File: img/stf-bp.pdf Graphic file (type pdf)
@@ -2062,7 +2064,7 @@ Package pdftex.def Info: img/all-infos.pdf  used on input line 29.
 Overfull \vbox (0.9586pt too high) detected at line 1112
  []
 
-[65
+[66
 
  <./img/all-infos.pdf>]
 \openout4 = `epifania-irt-forme.vrb'.
@@ -2073,12 +2075,12 @@ Overfull \hbox (9.52754pt too wide) in paragraph at lines 4--4
 ue_theta)[] 
  []
 
-<img/difference.pdf, id=9159, 1011.78pt x 614.295pt>
+<img/difference.pdf, id=9256, 1011.78pt x 614.295pt>
 File: img/difference.pdf Graphic file (type pdf)
 <use img/difference.pdf>
 Package pdftex.def Info: img/difference.pdf  used on input line 15.
 (pdftex.def)             Requested size: 295.9098pt x 179.65947pt.
-<img/absolute-difference.pdf, id=9160, 1011.78pt x 614.295pt>
+<img/absolute-difference.pdf, id=9257, 1011.78pt x 614.295pt>
 File: img/absolute-difference.pdf Graphic file (type pdf)
 <use img/absolute-difference.pdf>
 Package pdftex.def Info: img/absolute-difference.pdf  used on input line 26.
@@ -2087,7 +2089,7 @@ Package pdftex.def Info: img/absolute-difference.pdf  used on input line 26.
 Overfull \vbox (8.8889pt too high) detected at line 1144
  []
 
-[66
+[67
 
  <./img/difference.pdf>] (epifania-irt-forme.vrb
 Overfull \hbox (9.52754pt too wide) in paragraph at lines 4--4
@@ -2107,37 +2109,37 @@ Package pdftex.def Info: img/absolute-difference.pdf  used on input line 26.
 Overfull \vbox (8.8889pt too high) detected at line 1144
  []
 
-[67
+[68
 
- <./img/absolute-difference.pdf>] (epifania-irt-forme.toc) [68
+ <./img/absolute-difference.pdf>] (epifania-irt-forme.toc) [69
 
-] [69
-
-]
-[70
+] [70
 
 ]
-<img/TIF-target.pdf, id=9808, 1011.78pt x 614.295pt>
+[71
+
+]
+<img/TIF-target.pdf, id=9905, 1011.78pt x 614.295pt>
 File: img/TIF-target.pdf Graphic file (type pdf)
 <use img/TIF-target.pdf>
 Package pdftex.def Info: img/TIF-target.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
-<img/TIF-first.pdf, id=9809, 1011.78pt x 614.295pt>
+<img/TIF-first.pdf, id=9906, 1011.78pt x 614.295pt>
 File: img/TIF-first.pdf Graphic file (type pdf)
 <use img/TIF-first.pdf>
 Package pdftex.def Info: img/TIF-first.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
-<img/TIF-second.pdf, id=9810, 1011.78pt x 614.295pt>
+<img/TIF-second.pdf, id=9907, 1011.78pt x 614.295pt>
 File: img/TIF-second.pdf Graphic file (type pdf)
 <use img/TIF-second.pdf>
 Package pdftex.def Info: img/TIF-second.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
-<img/TIF-third.pdf, id=9811, 1011.78pt x 614.295pt>
+<img/TIF-third.pdf, id=9908, 1011.78pt x 614.295pt>
 File: img/TIF-third.pdf Graphic file (type pdf)
 <use img/TIF-third.pdf>
 Package pdftex.def Info: img/TIF-third.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
- [71
+ [72
 
  <./img/TIF-target.pdf>]
 File: img/TIF-target.pdf Graphic file (type pdf)
@@ -2156,7 +2158,7 @@ File: img/TIF-third.pdf Graphic file (type pdf)
 <use img/TIF-third.pdf>
 Package pdftex.def Info: img/TIF-third.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
- [72
+ [73
 
  <./img/TIF-first.pdf>]
 File: img/TIF-target.pdf Graphic file (type pdf)
@@ -2175,7 +2177,7 @@ File: img/TIF-third.pdf Graphic file (type pdf)
 <use img/TIF-third.pdf>
 Package pdftex.def Info: img/TIF-third.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
- [73
+ [74
 
  <./img/TIF-second.pdf>]
 File: img/TIF-target.pdf Graphic file (type pdf)
@@ -2194,11 +2196,11 @@ File: img/TIF-third.pdf Graphic file (type pdf)
 <use img/TIF-third.pdf>
 Package pdftex.def Info: img/TIF-third.pdf  used on input line 1250.
 (pdftex.def)             Requested size: 221.93376pt x 134.74225pt.
- [74
+ [75
 
- <./img/TIF-third.pdf>] [75
+ <./img/TIF-third.pdf>] [76
 
-] [76
+] [77
 
 ]
 
@@ -2225,43 +2227,43 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1298.
 
-<img/bfp-ila.pdf, id=10590, 1011.78pt x 614.295pt>
+<img/bfp-ila.pdf, id=10687, 1011.78pt x 614.295pt>
 File: img/bfp-ila.pdf Graphic file (type pdf)
 <use img/bfp-ila.pdf>
 Package pdftex.def Info: img/bfp-ila.pdf  used on input line 1307.
 (pdftex.def)             Requested size: 295.9098pt x 179.65947pt.
-[77
+[78
 
  <./img/bfp-ila.pdf>]
-<img/rp.pdf, id=10756, 1011.78pt x 614.295pt>
+<img/rp.pdf, id=10853, 1011.78pt x 614.295pt>
 File: img/rp.pdf Graphic file (type pdf)
 <use img/rp.pdf>
 Package pdftex.def Info: img/rp.pdf  used on input line 1316.
 (pdftex.def)             Requested size: 332.895pt x 202.11807pt.
- [78
+ [79
 
  <./img/rp.pdf>]
-<img/equalClose.pdf, id=10922, 1011.78pt x 614.295pt>
+<img/equalClose.pdf, id=11020, 1011.78pt x 614.295pt>
 File: img/equalClose.pdf Graphic file (type pdf)
 <use img/equalClose.pdf>
 Package pdftex.def Info: img/equalClose.pdf  used on input line 1355.
 (pdftex.def)             Requested size: 147.9549pt x 89.82504pt.
-<img/moreClose.pdf, id=10923, 1011.78pt x 614.295pt>
+<img/moreClose.pdf, id=11021, 1011.78pt x 614.295pt>
 File: img/moreClose.pdf Graphic file (type pdf)
 <use img/moreClose.pdf>
 Package pdftex.def Info: img/moreClose.pdf  used on input line 1355.
 (pdftex.def)             Requested size: 147.9549pt x 89.82504pt.
-<img/lessClose.pdf, id=10924, 1011.78pt x 614.295pt>
+<img/lessClose.pdf, id=11022, 1011.78pt x 614.295pt>
 File: img/lessClose.pdf Graphic file (type pdf)
 <use img/lessClose.pdf>
 Package pdftex.def Info: img/lessClose.pdf  used on input line 1355.
 (pdftex.def)             Requested size: 147.9549pt x 89.82504pt.
-<img/lessFar.pdf, id=10925, 1011.78pt x 614.295pt>
+<img/lessFar.pdf, id=11023, 1011.78pt x 614.295pt>
 File: img/lessFar.pdf Graphic file (type pdf)
 <use img/lessFar.pdf>
 Package pdftex.def Info: img/lessFar.pdf  used on input line 1355.
 (pdftex.def)             Requested size: 147.9549pt x 89.82504pt.
- [79
+ [80
 
  <./img/equalClose.pdf> <./img/moreClose.pdf
 
@@ -2275,9 +2277,9 @@ e pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./img/lessFar.pdf): PDF inclusion: multiple 
 pdfs with page group included in a single page
->] (epifania-irt-forme.toc) [80
+>] (epifania-irt-forme.toc) [81
 
-] [81
+] [82
 
 ]
 \tf@nav=\write6
@@ -2295,13 +2297,13 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
 Package rerunfilecheck Info: File `epifania-irt-forme.out' has not changed.
-(rerunfilecheck)             Checksum: BD8AED97FB5282C2255D161DB6D88353;2523.
+(rerunfilecheck)             Checksum: 5F3EEF8A8A2BB5795480094B55D7335D;2523.
  ) 
 Here is how much of TeX's memory you used:
- 33631 strings out of 474586
- 711080 string characters out of 5745680
- 1986558 words of memory out of 5000000
- 54883 multiletter control sequences out of 15000+600000
+ 33635 strings out of 474586
+ 711188 string characters out of 5745680
+ 1987558 words of memory out of 5000000
+ 54885 multiletter control sequences out of 15000+600000
  574791 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,123p,426b,1127s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2343,9 +2345,9 @@ msfonts/cm/cmtt12.pfb><C:/Users/ottae/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmtt8.pfb><C:/Users/ottae/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/ottae/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on epifania-irt-forme.pdf (81 pages, 4395903 bytes).
+Output written on epifania-irt-forme.pdf (82 pages, 4416405 bytes).
 PDF statistics:
- 11556 PDF objects out of 12825 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
- 711 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11653 PDF objects out of 12825 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 741 words of extra memory for PDF output out of 10000 (max. 10000000)
 
